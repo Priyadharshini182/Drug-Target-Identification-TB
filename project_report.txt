@@ -1,0 +1,21 @@
+
+DRUG TARGET IDENTIFICATION - PROJECT REPORT
+Date: 2026-07-20
+Disease: Tuberculosis (TB)
+Target Protein: InhA (Enoyl-ACP Reductase)
+
+PROTEIN PROPERTIES:
+Molecular Weight: 22938.81 Da
+Isoelectric Point: 6.06
+Instability Index: 23.21
+GRAVY Score: -0.1055
+
+BLAST RESULTS:
+Best Identity: 100.0%
+Avg Identity: 74.3%
+Total Hits: 10
+
+CONCLUSION:
+InhA is a validated drug target in M. tuberculosis.
+Stable, hydrophilic protein conserved across species.
+Isoniazid targets this protein.
