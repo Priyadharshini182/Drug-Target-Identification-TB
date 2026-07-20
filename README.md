@@ -86,6 +86,3 @@ Author
 Priyadharshini A
 B.Tech Biotechnology| DSU Trichy
 priyadharshinidharshini16378@gmail.com
-Priyadharshini A
-B.Tech Biotechnology | DSU Trichy
-priyadharshinidharshini4567@gmail.com
