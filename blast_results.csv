@@ -1,0 +1,11 @@
+Rank,Organism,Score,E_value,Identity_pct,Coverage_pct
+1,InhA [Mycobacterium tuberculosis H37Rv],558,0.0,100.0,100.0
+2,enoyl-ACP reductase [Mycobacterium bovis],554,0.0,99.3,100.0
+3,enoyl-ACP reductase [Mycobacterium africanum],550,0.0,98.5,100.0
+4,enoyl-ACP reductase [Mycobacterium leprae],480,2e-170,87.4,99.0
+5,enoyl-ACP reductase [Mycobacterium abscessus],450,5e-158,81.2,98.0
+6,enoyl-ACP reductase [Nocardia farcinica],390,3e-135,72.5,97.0
+7,enoyl-ACP reductase [Streptomyces coelicolor],340,8e-116,63.8,96.0
+8,enoyl-ACP reductase [Corynebacterium glutamicum],290,2e-97,55.1,95.0
+9,enoyl-ACP reductase [Escherichia coli],240,5e-79,46.3,94.0
+10,enoyl-ACP reductase [Staphylococcus aureus],195,3e-62,38.7,92.0
